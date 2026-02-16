@@ -25,15 +25,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouzaf&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouzaf&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-###
-
 <p align="left">Perfil Profesional: Ingeniera Informática | Data Science & Project Management<br>Ingeniera Informática con más de 10 años de experiencia transformando procesos operativos en activos estratégicos. Especialista en PMO y Gestión de Proyectos, con un enfoque actual en la Ciencia de Datos y Machine Learning (Formación Alura / Oracle Next Education) para potenciar la toma de decisiones basada en evidencia.<br><br>Áreas de Impacto:<br>Data-Driven Management: Experta en la transición de procesos AS-IS hacia modelos optimizados TO-BE, integrando análisis predictivo con Python para reducir la incertidumbre en indicadores críticos (KPIs).<br><br>Machine Learning Aplicado: Capacidad para desarrollar e implementar modelos de aprendizaje automático orientados a la optimización de recursos, control de presupuestos y aseguramiento de la calidad.<br><br>Liderazgo Estratégico: Trayectoria probada coordinando equipos multidisciplinarios, ahora potenciada con herramientas de visualización de datos para comunicar hallazgos complejos a niveles ejecutivos.<br><br>Eficiencia Operativa: Enfoque en la mejora continua mediante la automatización de procesos y el análisis de grandes volúmenes de datos para maximizar el ROI y minimizar costos operativos.</p>
 
 ###
