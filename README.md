@@ -3,7 +3,6 @@
 -->
 <p align="center">
  <img width="1536" height="1024" alt="Banner_3" src="https://github.com/user-attachments/assets/9f9e9b48-6521-4d4b-be36-673f4c134806" />
-png" />
 </p>
 
 <p align="center">
