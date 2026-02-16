@@ -2,7 +2,8 @@
 <h1 align="center">Hola, soy Jacqueline Rioja</h1>
 -->
 <p align="center">
- <img width="1536" height="1024" alt="image" src="https://chatgpt.com/s/m_6993a0e44e14819187d64e385fb2bf29" />
+ <img width="1536" height="1024" alt="Banner_3" src="https://github.com/user-attachments/assets/9f9e9b48-6521-4d4b-be36-673f4c134806" />
+png" />
 </p>
 
 <p align="center">
