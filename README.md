@@ -60,10 +60,11 @@
 </div>
 
 <br>
-
+<!--
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="pacman.svg">
     <img alt="pacman contribution graph" src="snake.svg">
   </picture>
 </div>
+!-->
