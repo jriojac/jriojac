@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Jacqueline Rioja</h1>
 -->
 <p align="center">
-  <img src="banner.png" alt="Jacqueline Rioja Banner" width="100%">
+  <img src="baner.png" alt="Jacqueline Rioja Banner" width="100%">
 </p>
 
 <p align="center">
