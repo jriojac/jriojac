@@ -3,6 +3,8 @@
 -->
 <p align="center">
   <img src="banner.png" alt="Jacqueline Rioja Banner" width="100%">
+  <img src="banner2.png" alt="Jacqueline Rioja Banner" width="100%">
+
 </p>
 
 <p align="center">
@@ -63,7 +65,7 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzaf/maurodesouzaf/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzaf/maurodesouzaf/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzaf/maurodesouzaf/output/pacman.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzaf/maurodesouzaf/output/pacman.svg">
   </picture>
 </div>
