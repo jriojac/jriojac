@@ -53,14 +53,12 @@
 ### 📫 Conectemos:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jriojac" target="_blank">
+  <a href="https://www.linkedin.com/in/jriojac" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> &nbsp;
 
-  <a href="https://discord.com/users/jacquelinerc" target="_blank">
-  <!--  <img src="https://img.shields.io/badge/Discord-Chat_conmigo-7289DA?style=for-the-badge&logo=discord&logoColor=white" />!-->
+  <a href="https://discord.com/users/jacquelinerc" >
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="discord logo"/>
-    <!--      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/> !-->
   </a>
 </div>
 
