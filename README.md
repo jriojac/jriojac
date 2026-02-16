@@ -34,8 +34,9 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jriojac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jriojacÍ&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jriojac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jriojac&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
