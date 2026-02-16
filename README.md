@@ -1,4 +1,9 @@
-<h1 align="center">Hola, soy Jacqueline Rioja 👋</h1>
+<!-- 
+<h1 align="center">Hola, soy Jacqueline Rioja</h1>
+-->
+<p align="center">
+  <img src="banner.png" alt="Jacqueline Rioja Banner" width="100%">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ingeniera%20Informática-Data%20Science-blue?style=for-the-badge">
@@ -33,11 +38,12 @@
 
 ### 📊 Estadísticas de GitHub
 
+<!--
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jriojac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jriojac&layout=compact&theme=tokyonight" />
 </p>
-
+!-->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jriojac&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
