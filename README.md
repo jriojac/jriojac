@@ -2,8 +2,8 @@
 <h1 align="center">Hola, soy Jacqueline Rioja</h1>
 -->
 <p align="center">
-  <img src="banner.png" alt="Jacqueline Rioja Banner" width="100%">
-
+  <img src="baner.png" alt="Jacqueline Rioja Banner" width="100%">
+ <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6e8daf2b-747b-4a27-a757-0be23993d02e" />
 </p>
 
 <p align="center">
